@@ -1,0 +1,335 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hcc\\source\\repos\\backendclinic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\hcc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\backendclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\backendclinic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\models\\healthrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\repositories\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\repositories\\ihealthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\repositories\\healthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\repositories\\healthrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\controllers\\healthrecordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\models\\appointmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\repositories\\iappointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\repositories\\appointmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|c:\\users\\hcc\\source\\repos\\backendclinic\\backendclinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EABB9FBB-721E-4F4B-B2F6-4B887D47EBF4}|backendclinic\\backendclinic.csproj|solutionrelative:backendclinic\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\hcc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\hcc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAEwNgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-08T18:42:55.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "backendclinic",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\backendclinic.csproj",
+              "RelativeDocumentMoniker": "backendclinic\\backendclinic.csproj",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\backendclinic.csproj",
+              "RelativeToolTip": "backendclinic\\backendclinic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-08T18:42:25.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Dockerfile",
+              "RelativeDocumentMoniker": "backendclinic\\Dockerfile",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Dockerfile",
+              "RelativeToolTip": "backendclinic\\Dockerfile",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-08T18:29:46.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\.gitignore",
+              "RelativeDocumentMoniker": "backendclinic\\.gitignore",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\.gitignore",
+              "RelativeToolTip": "backendclinic\\.gitignore",
+              "ViewState": "AgIAANgAAAAAAAAAAAAAAOgAAAAKAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHgSURBVEhLtZVdTsJAFIWroTyDK3ELJuCbsA1ZhQRFRETkV6yV8AAsgAI\u002BugW3wAr0RUop7Tj3dmagtLXFhJOc3mEynXu\u002BSWmlg4oQcsSGqOFwSKcIzAcY7rFZdeZkWf42DOMsl7v8ZNsEazAYEMuyXF5zr7nXWG3bJqPRiMznc6Kqb1\u002BtdueUbePSMasoSASiN0sW2AJbwrSRMKwBJZNJKZVOJeJx\u002BaPRbHma\u002BDbAqzOMpBPa5DydxiZsSijGKoo30MZjrH8pm81iVRQFKygmxxNs6K9\u002Bv4/nvlqZ1CticBuOl8IGWS4NogsviWmuSe2p7uH2EMAKTQsn2FUmkxUnEKher4dPjH9ymjogva47BNXHWhgBXCRpomnOxB6KRKCqKhJsznoneUD6BSOoPFSjEUwnByJQlFf8l7rTO6ndyalZcm7TNEn5vhJG4CD8h\u002BAikwkn6HZf8F3jSSu8OfNt/yx0sqIEpbtyOAGsmE4nzsQeikTQ7jwTkxKItCyxX2qenBsIirelcAJAmB2KoNlq4/Psl1Z4K/UuQeGmGIGA6n02xbqPgIBuwH4FqN5o4vMMKYOSBhkI8oVrTwfPBwdWxOQYWt7D/P5duT768D7HJhFtU9MBVj5XyF\u002B59jywJOkX7ucXnGOxDX8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-08T17:33:33.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HealthRecordController.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Controllers\\HealthRecordController.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Controllers\\HealthRecordController.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Controllers\\HealthRecordController.cs",
+              "RelativeToolTip": "backendclinic\\Controllers\\HealthRecordController.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAkwJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:21:31.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HealthRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\HealthRecordRepository.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Repositories\\HealthRecordRepository.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\HealthRecordRepository.cs",
+              "RelativeToolTip": "backendclinic\\Repositories\\HealthRecordRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:20:27.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IHealthRecordRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\IHealthRecordRepository.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Repositories\\IHealthRecordRepository.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\IHealthRecordRepository.cs",
+              "RelativeToolTip": "backendclinic\\Repositories\\IHealthRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:20:07.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HealthRecord.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\HealthRecord.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Models\\HealthRecord.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\HealthRecord.cs",
+              "RelativeToolTip": "backendclinic\\Models\\HealthRecord.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T19:19:46.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppointmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\AppointmentDto.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Models\\AppointmentDto.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\AppointmentDto.cs",
+              "RelativeToolTip": "backendclinic\\Models\\AppointmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:57:10.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\UserDto.cs",
+              "RelativeToolTip": "backendclinic\\Models\\UserDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:56:44.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\User.cs",
+              "RelativeToolTip": "backendclinic\\Models\\User.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:55:16.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "backendclinic\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:22:32.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Program.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Program.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Program.cs",
+              "RelativeToolTip": "backendclinic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:21:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\AppointmentRepository.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Repositories\\AppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\AppointmentRepository.cs",
+              "RelativeToolTip": "backendclinic\\Repositories\\AppointmentRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:21:34.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAppointmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\IAppointmentRepository.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Repositories\\IAppointmentRepository.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Repositories\\IAppointmentRepository.cs",
+              "RelativeToolTip": "backendclinic\\Repositories\\IAppointmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:21:15.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "backendclinic\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\hcc\\source\\repos\\backendclinic\\backendclinic\\Models\\Appointment.cs",
+              "RelativeToolTip": "backendclinic\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T17:19:12.714Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
